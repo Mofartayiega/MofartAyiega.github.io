@@ -7,7 +7,7 @@ title: Publications & Presentations
 - Ayiega, M. O. (2022). *Utata katika Ufasiri wa Maana za Sitiari za Kiswahili*. **Jarida la Fahari ya Kiswahili**, 1(1), 77–91. [Link](https://rucu.ac.tz/JAFAKI.html)
 - Ayiega, M. O. & Mwita, L. C. (2021). *Nomino Ambatani za Kiswahili Zinazokiuka Kanuni ya Kufuta Mabano*. **East African Journal of Swahili Studies**, 4(1), 30–42. [DOI: 10.37284/eajss.4.1.452](https://doi.org/10.37284/eajss.4.1.452)
 
-## Selected Conference Presentations
+## Conference Presentations
 - **ACAL 56** (University of Minnesota, Minneapolis), Aug 15, 2025  
   – *Tense Marking and the Order of Suffix in Ekegusii Verbs* (with Deo Ngonyani)  
   – *Morphosemantics of NP‑Internal and Sentence‑Level Agreement* (with Alan Ke & Deo Ngonyani)
