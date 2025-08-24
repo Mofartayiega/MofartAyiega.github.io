@@ -5,8 +5,9 @@ permalink: /cv/
 
 ## Curriculum Vitae
 
-<!-- Inline PDF viewer -->
-<object data="/assets/cv.pdf" type="application/pdf" width="100%" height="900px">
-  <embed src="/assets/cv.pdf" type="application/pdf" width="100%" height="900px" />
+<iframe src="/assets/cv.pdf" width="100%" height="900px" style="border:none;"></iframe>
+
+> For best viewing, use a desktop or tablet browser. Mobile viewing may require scrolling or zooming.
+
   
 
