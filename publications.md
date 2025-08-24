@@ -1,5 +1,6 @@
 ---
 title: Publications & Presentations
+permalink: /publications & Presentations
 ---
 
 ## Publications
