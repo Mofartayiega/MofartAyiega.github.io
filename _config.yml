@@ -1,15 +1,17 @@
 title: Mofart Ayiega
-description: >
-  PhD student in Linguistics at Michigan State University.  
-  Research in Bantu morphosyntax, variation in Swahili & Ekegusii.
+description: PhD student in Linguistics at Michigan State University. Research in Bantu morphosyntax and variation (Swahili & Ekegusii).
+
 theme: minima
+
+# Navigation menu links in the top bar
 header_pages:
-  index.md           
-  about.md
-  publications.md
-  cv.md
-# Footer contact info
+  - index.md
+  - about.md
+  - publications.md
+  - cv.md
+
 author: Mofart Ayiega
-email: ayiegamo@msu.ed
+email: ayiegamo@msu.edu
 github_username: MofartAyiega
+
 
