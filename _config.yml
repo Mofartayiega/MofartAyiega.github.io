@@ -1,9 +1,14 @@
 title: Mofart Ayiega
 description: PhD student in Linguistics at Michigan State University. Research in Bantu morphosyntax and variation (Swahili & Ekegusii).
 
+# Use Minima (has a built-in top nav)
 theme: minima
+# Make sure you REMOVE any old lines like `remote_theme:` or `theme: jekyll-theme-minimal`
+# Correct URLs for a user site
+url: "https://MofartAyiega.github.io"
+baseurl: ""   # must be empty for a user site
 
-# Navigation menu links in the top bar
+# Pages to show in the top menu (file names at repo root)
 header_pages:
   - index.md
   - about.md
@@ -13,5 +18,6 @@ header_pages:
 author: Mofart Ayiega
 email: ayiegamo@msu.edu
 github_username: MofartAyiega
+
 
 
