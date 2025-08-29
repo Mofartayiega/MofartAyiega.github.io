@@ -1,23 +1,19 @@
-title: title: "[Mofart Ayiega](https://github.com/MofartAyiega)"
-description: PhD student in Linguistics at Michigan State University. Research in Bantu morphosyntax and variation (Swahili & Ekegusii).
-
-# Use Minima (has a built-in top nav)
+title: "Mofart Ayiega"
+description: "PhD student in Linguistics at Michigan State University. Research in Bantu morphosyntax and variation (Swahili & Ekegusii)."
+# Theme
 theme: minima
-# Make sure you REMOVE any old lines like `remote_theme:` or `theme: jekyll-theme-minimal`
-# Correct URLs for a user site
-url: "https://MofartAyiega.github.io"
-baseurl: ""   # must be empty for a user site
-
-# Pages to show in the top menu (file names at repo root)
+# User/Org site settings (repo name is username.github.io)
+url: "https://mofartayiega.github.io"
+baseurl: ""  # must be empty for user/org sites
+# Top navigation pages (ensure these files exist at repo root)
 header_pages:
   - index.md
   - about.md
   - publications.md
   - cv.md
-
-author: Mofart Ayiega
-email: ayiegamo@msu.edu
-github_username: MofartAyiega
-
-
-
+author: "Mofart Ayiega"
+email: "ayiegamo@msu.edu"
+github_username: "MofartAyiega"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
