@@ -1,11 +1,8 @@
 title: "Mofart Ayiega"
-description: "PhD student in Linguistics at Michigan State University. Research in Bantu morphosyntax and variation (Swahili & Ekegusii)."
-# Theme
+description: "PhD student in Linguistics at Michigan State University. Research in Bantu morphosyntax, morphosemantics and variation (Swahili & Ekegusii)."
 theme: minima
-# User/Org site settings (repo name is username.github.io)
 url: "https://mofartayiega.github.io"
-baseurl: ""  # must be empty for user/org sites
-# Top navigation pages (ensure these files exist at repo root)
+baseurl: ""
 header_pages:
   - index.md
   - about.md
@@ -17,3 +14,4 @@ github_username: "MofartAyiega"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
