@@ -6,7 +6,7 @@ permalink: /cv/
 ## Curriculum Vitae
 
 <div class="cv-actions">
-  <a class="btn" href="{{ '/assets/cv.pdf' | relative_url }}" target="_blank" rel="noopener">Open in new tab</a>
+  <a class="btn" href="{{ '/cv/view/' | relative_url }}" target="_blank" rel="noopener">Open in new tab</a>
   <a class="btn" href="{{ '/assets/cv.pdf' | relative_url }}" download>Download PDF</a>
 </div>
 
