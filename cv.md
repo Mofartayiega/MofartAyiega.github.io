@@ -6,16 +6,19 @@ permalink: /cv/
 ## Curriculum Vitae
 
 <div class="cv-actions">
-  <a class="btn" href="{{ '/cv/view/' | relative_url }}" target="_blank" rel="noopener">Open in new tab</a>
+  <!-- This just jumps the reader down to the inline viewer -->
+  <a class="btn" href="#cv-viewer">View below</a>
   <a class="btn" href="{{ '/assets/cv.pdf' | relative_url }}" download>Download PDF</a>
 </div>
 
-<div class="cv-embed" role="region" aria-label="Embedded PDF viewer: Mofart Ayiega — CV">
+<!-- Inline viewer -->
+<div id="cv-viewer" class="cv-embed" role="region" aria-label="Embedded PDF viewer: Mofart Ayiega — CV">
   <object
     data="{{ '/assets/cv.pdf?v=20250829#view=FitH' | relative_url }}"
     type="application/pdf"
     class="cv-object"
   >
+    <!-- Fallback if <object> is blocked: -->
     <iframe
       src="{{ '/assets/cv.pdf?v=20250829#view=FitH' | relative_url }}"
       title="Mofart Ayiega — CV"
@@ -25,7 +28,7 @@ permalink: /cv/
 
     <div class="cv-fallback">
       Your browser can’t display PDFs inline.
-      <a href="{{ '/assets/cv.pdf' | relative_url }}" target="_blank" rel="noopener">Open the CV</a>
+      <a href="{{ '/assets/cv.pdf' | relative_url }}" target="_blank" rel="noopener">Open the CV file</a>
       or
       <a href="{{ '/assets/cv.pdf' | relative_url }}" download>download it</a>.
     </div>
@@ -46,6 +49,7 @@ permalink: /cv/
 .cv-fallback{padding:1rem;font-size:.95rem;line-height:1.4}
 @media (max-width:768px){.cv-embed{height:85vh}}
 </style>
+
 
 
 
