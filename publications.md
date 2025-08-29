@@ -14,7 +14,7 @@ permalink: /publications & Presentations
   – *Morphosemantics of NP‑Internal and Sentence‑Level Agreement* (with Alan Ke & Deo Ngonyani)
 
 - **Bantu 10** (University of Dar es Salaam), Aug 12–14, 2024  
-  – *Typology of Swahili Applicatives* (with Deo Ngonyani)
+  – *A Taxonomy of Swahili Applicatives* (with Deo Ngonyani)
 
 - **CHAUKIDU International Conference** (Arusha, Tanzania), Dec 15–16, 2023  
   – *Upanuzi wa Maana ya Baadhi ya Msamiati wa Kiswahili: Mtazamo wa Ubadilikaji*
