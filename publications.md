@@ -9,6 +9,12 @@ permalink: /publications & Presentations
 - Ayiega, M. O. & Mwita, L. C. (2021). *Nomino Ambatani za Kiswahili Zinazokiuka Kanuni ya Kufuta Mabano*. **East African Journal of Swahili Studies**, 4(1), 30–42. [DOI: 10.37284/eajss.4.1.452](https://doi.org/10.37284/eajss.4.1.452)
 
 ## Conference Presentations
+- **2026 Linguistic Society of America annual meeting** (Marriott, New Orleans), January 8-11  
+  – *Morphological leveling of noun class agreement in urban Swahili* (with Suzanne Wagner)  
+
+ - **New Ways of Analyzing Variation (NWAV 53)** (University of Michigan-Ann Arbor), November 5-7, 2025  
+  – *Morphological Non-agreement on Animate Nouns in Swahili*
+
 - **ACAL 56** (University of Minnesota, Minneapolis), Aug 15, 2025  
   – *Tense Marking and the Order of Suffix in Ekegusii Verbs* (with Deo Ngonyani)  
   – *Morphosemantics of NP‑Internal and Sentence‑Level Agreement* (with Alan Ke & Deo Ngonyani)
