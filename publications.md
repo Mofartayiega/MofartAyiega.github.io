@@ -8,7 +8,7 @@ permalink: /publications & Presentations
 - Ayiega, M. O. (2022). *Utata katika Ufasiri wa Maana za Sitiari za Kiswahili*. *Jarida la Fahari ya Kiswahili*, 1(1), 77–91. [Link](https://rucu.ac.tz/JAFAKI.html).
 - Ayiega, M. O. & Mwita, L. C. (2021). *Nomino Ambatani za Kiswahili Zinazokiuka Kanuni ya Kufuta Mabano*. *East African Journal of Swahili Studies*, 4(1), 30–42. [DOI: 10.37284/eajss.4.1.452](https://doi.org/10.37284/eajss.4.1.452).
   
-##Co-authored Books
+## Co-authored Books
 -Ayiega, M.O., Wasike, K., & Kikechi, K. B. (2023). *Mwongozo wa Mapambazuko ya Macheo na
 Hadithi Nyingine*. Nairobi: Jesma Publishers & Educational Boosters Limited.
 -Ayiega, M. O., & Kombo, K. B. (2023). *Mwongozo wa Nguu za Jadi*. Nairobi: Jesma Publishers &
