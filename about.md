@@ -1,6 +1,6 @@
 ---
 title: About Me
-permalink: /about Me
+permalink: /about me
 ---
 I am originally from Kisii, Kenya. Before starting my PhD at Michigan State University in 2023, I earned a BEd (Arts) in Kiswahili and History from Kibabii University (2018) and an MA in Swahili (Linguistics) from Kenyatta University (2022).
 
