@@ -2,7 +2,10 @@
 title: About
 permalink: /about
 ---
-I am a PhD student in Linguistics at Michigan State University. My research examines how semantic features (e.g., animacy) interact with grammatical structure across domains, focusing on Swahili and Ekegusii.
-Interests: Bantu morphosyntax, morphosemantics, Language variation & change
+I am originally from Kisii, Kenya. Before starting my PhD at Michigan State University in 2023, I earned a BEd (Arts) in Kiswahili and History from Kibabii University (2018) and an MA in Swahili (Linguistics) from Kenyatta University (2022).
+
+After my MA, I worked as an adjunct faculty member at Daystar University, teaching introductory courses in Swahili phonology, phonetics, morphology, semantics, and sociolinguistics.
+
+My MA thesis, supervised by Dr. Leonard Chacha Mwita, examined Bracket Erasure Rule violations in Swahili compound nouns within Lexical Morphology. Using data from *Kamusi Kuu ya Kiswahili* (2015), I found that some compounds undergo internal changes after compounding, while others remain unchanged, revealing systematic patterns relevant to Swahili morphology and lexicography. [View my MA thesis (Swahili)](https://ir-library.ku.ac.ke/bitstreams/36d29288-10a6-496c-a64f-c51f8fff3765/download) 
 
 
