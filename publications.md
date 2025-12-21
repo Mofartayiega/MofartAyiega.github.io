@@ -9,8 +9,8 @@ permalink: /publications & Presentations
 - Ayiega, M. O. & Mwita, L. C. (2021). *Nomino Ambatani za Kiswahili Zinazokiuka Kanuni ya Kufuta Mabano*. *East African Journal of Swahili Studies*, 4(1), 30–42. [DOI: 10.37284/eajss.4.1.452](https://doi.org/10.37284/eajss.4.1.452).
   
 ## Co-authored Books
-- Ayiega, M.O., Wasike, K., & Kikechi, K. B. (2023). *Mwongozo wa Mapambazuko ya Macheo na Hadithi Nyingine*. Nairobi: Jesma Publishers & Educational Boosters Limited.
-- Ayiega, M. O., & Kombo, K. B. (2023). *Mwongozo wa Nguu za Jadi*. Nairobi: Jesma Publishers & Educational Boosters Limited.
+- Ayiega, M.O., Wasike, K., & Kikechi, K. B. (2023). *Mwongozo wa Mapambazuko ya Macheo na Hadithi Nyingine*. Jesma Publishers & Educational Boosters Limited.
+- Ayiega, M. O., & Kombo, K. B. (2023). *Mwongozo wa Nguu za Jadi*. Jesma Publishers & Educational Boosters Limited.
 
 ## Conference Presentations
 - **2026 Linguistic Society of America annual meeting** (Marriott, New Orleans), January 8-11  
