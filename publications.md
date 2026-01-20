@@ -13,6 +13,9 @@ permalink: /publications & Presentations
 - Ayiega, M. O., & Kombo, K. B. (2023). *Mwongozo wa Nguu za Jadi*. Jesma Publishers & Educational Boosters Limited.
 
 ## Conference Presentations
+- **11th International Conference on Bantu Languages (Bantu 11)** (Ghent, Belgium), August 18-21, 2026  
+  – *Morphological leveling and cues to animacy in Nairobi Swahili subject-verb agreement* (with Suzanne Wagner)
+  
 - **2026 Linguistic Society of America annual meeting** (Marriott, New Orleans), January 8-11  
   – *Morphological leveling of noun class agreement in urban Swahili* (with Suzanne Wagner)  
 
@@ -23,14 +26,14 @@ permalink: /publications & Presentations
   – *Tense Marking and the Order of Suffix in Ekegusii Verbs* (with Deo Ngonyani)  
   – *Morphosemantics of NP‑Internal and Sentence‑Level Agreement* (with Alan Ke & Deo Ngonyani)
 
-- **Bantu 10** (University of Dar es Salaam), Aug 12–14, 2024  
+- **Bantu 10** (University of Dar es Salaam), August 12–14, 2024  
   – *A Taxonomy of Swahili Applicatives* (with Deo Ngonyani)
 
-- **CHAUKIDU International Conference** (Arusha, Tanzania), Dec 15–16, 2023  
+- **CHAUKIDU International Conference** (Arusha, Tanzania), December 15–16, 2023  
   – *Upanuzi wa Maana ya Baadhi ya Msamiati wa Kiswahili: Mtazamo wa Ubadilikaji*
 
-- **BAKIZA** (Wete, Pemba), Dec 17–18, 2022  
+- **BAKIZA** (Wete, Pemba), December 17–18, 2022  
   – *Usawiri wa Mabadiliko ya Mwanamke Mswahili katika Riwaya ya Nyuso za Mwanamke (2010): Mtazamo wa Utamaduni Mageuzi*
 
-- **International Conference on African Language & Culture Studies** (Beijing, China), Dec 4, 2021  
+- **International Conference on African Language & Culture Studies** (Beijing, China), December 4, 2021  
   – *Swahili Compound Nouns: Reasons for Violation and Non‑Violation of the Bracket Erasure Rule*
