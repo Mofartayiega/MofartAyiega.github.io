@@ -13,8 +13,8 @@ permalink: /publications & Presentations
 - Ayiega, M. O., & Kombo, K. B. (2023). *Mwongozo wa Nguu za Jadi*. Jesma Publishers & Educational Boosters Limited.
 
 ## Conference Presentations
-- **11th International Conference on Bantu Languages (Bantu 11)** (Ghent, Belgium), August 18-21, 2026  
-  – *Morphological leveling and cues to animacy in Nairobi Swahili subject-verb agreement* (with Suzanne Wagner)
+- **To be presented at 11th International Conference on Bantu Languages, University of Ghent, Belgium (Bantu 11)** August 18-21, 2026  
+  – *Morphological leveling and cues to animacy in Nairobi Swahili subject-verb agreement* (with Suzanne Wagner) 
   
 - **2026 Linguistic Society of America annual meeting** (Marriott, New Orleans), January 8-11  
   – *Morphological leveling of noun class agreement in urban Swahili* (with Suzanne Wagner)  
