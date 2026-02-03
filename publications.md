@@ -13,30 +13,30 @@ permalink: /publications & Presentations
 - Ayiega, M. O., & Kombo, K. B. (2023). *Mwongozo wa Nguu za Jadi*. Jesma Publishers & Educational Boosters Limited.
 
 ## Conference Presentations
-- **To be presented at 11th International Conference on Bantu Languages, University of Ghent, Belgium (Bantu 11)** August 18-21, 2026  
+- **To be presented at 11th International Conference on Bantu Languages (Bantu 11), University of Ghent, Belgium** August 18-21, 2026  
   – *Morphological leveling and cues to animacy in Nairobi Swahili subject-verb agreement* (with Suzanne Wagner)
   
 - **To be presented at 57th Annual Conference on African Linguistics (ACAL 57), University at Buffalo, New York** May 19-21, 2026  
   – *Suffix Ordering in Ekegusii Verbs* (with Deo Ngonyani). Poster.
      
-- **2026 Linguistic Society of America annual meeting** (Marriott, New Orleans), January 8-11  
+- **2026 Linguistic Society of America annual meeting (LSA 2026), Marriott, New Orleans** January 8-11  
   – *Morphological leveling of noun class agreement in urban Swahili* (with Suzanne Wagner)  
 
- - **New Ways of Analyzing Variation (NWAV 53)** (University of Michigan-Ann Arbor), November 5-7, 2025  
+ - **New Ways of Analyzing Variation (NWAV 53), University of Michigan-Ann Arbor** November 5-7, 2025  
   – *Morphological Non-agreement on Animate Nouns in Swahili* (Poster)
 
-- **ACAL 56** (University of Minnesota, Minneapolis), Aug 15, 2025  
+- **56th Annual Conference on African Linguistics (ACAL 56), University of Minnesota, Minneapolis**, Aug 15, 2025  
   – *Tense Marking and the Order of Suffix in Ekegusii Verbs* (with Deo Ngonyani)  
   – *Morphosemantics of NP‑Internal and Sentence‑Level Agreement* (with Alan Ke & Deo Ngonyani)
 
-- **Bantu 10** (University of Dar es Salaam), August 12–14, 2024  
+- **10th International Conference on Bantu Languages (Bantu 10), University of Dar es Salaam, Tanzania**, August 12–14, 2024  
   – *A Taxonomy of Swahili Applicatives* (with Deo Ngonyani)
 
-- **CHAUKIDU International Conference** (Arusha, Tanzania), December 15–16, 2023  
+- **CHAUKIDU International Conference, Arusha, Tanzania**, December 15–16, 2023  
   – *Upanuzi wa Maana ya Baadhi ya Msamiati wa Kiswahili: Mtazamo wa Ubadilikaji*
 
-- **BAKIZA** (Wete, Pemba), December 17–18, 2022  
+- **Baraza la Kiswahili Zanzibar, Wete, Pemba**, December 17–18, 2022  
   – *Usawiri wa Mabadiliko ya Mwanamke Mswahili katika Riwaya ya Nyuso za Mwanamke (2010): Mtazamo wa Utamaduni Mageuzi*
 
-- **International Conference on African Language & Culture Studies** (Beijing, China), December 4, 2021  
+- **2021 International Conference on African Language & Culture Studies, Beijing Foreign Studies University, Beijing, China** December 4, 2021  
   – *Swahili Compound Nouns: Reasons for Violation and Non‑Violation of the Bracket Erasure Rule*
