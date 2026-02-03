@@ -14,8 +14,11 @@ permalink: /publications & Presentations
 
 ## Conference Presentations
 - **To be presented at 11th International Conference on Bantu Languages, University of Ghent, Belgium (Bantu 11)** August 18-21, 2026  
-  – *Morphological leveling and cues to animacy in Nairobi Swahili subject-verb agreement* (with Suzanne Wagner) 
+  – *Morphological leveling and cues to animacy in Nairobi Swahili subject-verb agreement* (with Suzanne Wagner)
   
+- **To be presented at 57th Annual Conference on African Linguistics (ACAL 57), University at Buffalo, New York** May 19-21, 2026  
+  – *Suffix Ordering in Ekegusii Verbs* (with Deo Ngonyani). Poster.
+     
 - **2026 Linguistic Society of America annual meeting** (Marriott, New Orleans), January 8-11  
   – *Morphological leveling of noun class agreement in urban Swahili* (with Suzanne Wagner)  
 
