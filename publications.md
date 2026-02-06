@@ -7,10 +7,10 @@ permalink: /publications & Presentations
 
 2023 &nbsp;&nbsp;
 **Ayiega, Mofart Onyoni**, & Mwita, Leonard Chacha. Kiswahili compound nouns: Reasons for violation and non-violation of the Bracket Erasure Rule.
-*Journal of African Language and Culture Studies*, 4(4), 58–83.
+&nbsp;&nbsp;*Journal of African Language and Culture Studies*, 4(4), 58–83.
 
-2022 
-**Ayiega, Mofart Onyoni**.  Utata katika ufasiri wa maana za sitiari za Kiswahili. *Jarida la Fahari ya Kiswahili*, 1(1), 77–91.
+2022 &nbsp;&nbsp;
+**Ayiega, Mofart Onyoni**.  Utata katika ufasiri wa maana za sitiari za Kiswahili. *Jarida la Fahari ya Kiswahili*, 1(1), 77–91.&nbsp;&nbsp;
 [https://rucu.ac.tz/JAFAKI.html](https://rucu.ac.tz/JAFAKI.html)
 
 
