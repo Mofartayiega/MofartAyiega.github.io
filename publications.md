@@ -21,8 +21,7 @@ permalink: /publications & Presentations
 
 **Proceedings Papers**
 
-2026      **Ayiega, Mofart Onyoni**, & Wagner, Suzanne Evans.  
-*Morphological leveling of noun class agreement in urban Swahili. Proceedings of the Linguistic Society of America*.
+2026      **Ayiega, Mofart Onyoni**, & Wagner, Suzanne Evans. *Morphological leveling of noun class agreement in urban Swahili. Proceedings of the Linguistic Society of America*.
 
 2025      **Ayiega, Mofart Onyoni**, Ke, Alan Hezao, & Ngonyani, Deo. Morphosemantics of NP-internal and sentence-level agreement in Swahili. 
 *Proceedings of the 56th Annual Conference on African Linguistics*.
