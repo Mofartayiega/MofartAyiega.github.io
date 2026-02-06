@@ -10,17 +10,15 @@ permalink: /publications & Presentations
 Kiswahili compound nouns: Reasons for violation and non-violation of the Bracket Erasure Rule.
 *Journal of African Language and Culture Studies*, 4(4), 58–83.
 
-**2022**  
+2022  
 **Ayiega, Mofart Onyoni**.  
-Utata katika ufasiri wa maana za sitiari za Kiswahili. 
-*Jarida la Fahari ya Kiswahili*, 1(1), 77–91.  
+Utata katika ufasiri wa maana za sitiari za Kiswahili. *Jarida la Fahari ya Kiswahili*, 1(1), 77–91.  
 [https://rucu.ac.tz/JAFAKI.html](https://rucu.ac.tz/JAFAKI.html)
 
 
 
 2021
-**Ayiega, Mofart Onyoni**, & Mwita, Leonard Chacha.
-Nomino ambatani za Kiswahili zinazokiuka kanuni ya kufuta mabano.
+**Ayiega, Mofart Onyoni**, & Mwita, Leonard Chacha. Nomino ambatani za Kiswahili zinazokiuka kanuni ya kufuta mabano.
 *East African Journal of Swahili Studies*, 4(1), 30–42.  
 [DOI: 10.37284/eajss.4.1.452](https://doi.org/10.37284/eajss.4.1.452)
 
