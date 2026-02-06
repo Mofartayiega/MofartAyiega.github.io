@@ -3,7 +3,7 @@ title: Publications & Presentations
 permalink: /publications & Presentations
 ---
 
-**Peer-reviewed Journal Articles**
+## Peer-reviewed Journal Articles
 
 2023
 **Ayiega, Mofart Onyoni**, & Mwita, Leonard Chacha. Kiswahili compound nouns: Reasons for violation and non-violation of the Bracket Erasure Rule.
@@ -19,14 +19,14 @@ permalink: /publications & Presentations
 *East African Journal of Swahili Studies*, 4(1), 30–42.  
 [DOI: 10.37284/eajss.4.1.452](https://doi.org/10.37284/eajss.4.1.452)
 
-**Proceedings Papers**
+## Proceedings Papers
 
 2026      **Ayiega, Mofart Onyoni**, & Wagner, Suzanne Evans. *Morphological leveling of noun class agreement in urban Swahili. Proceedings of the Linguistic Society of America*.
 
 2025      **Ayiega, Mofart Onyoni**, Ke, Alan Hezao, & Ngonyani, Deo. Morphosemantics of NP-internal and sentence-level agreement in Swahili. 
 *Proceedings of the 56th Annual Conference on African Linguistics*.
 
-**Co-authored Books**
+## Co-authored Books**
 
 2023      *Mwongozo wa Mapambazuko ya Macheo na Hadithi Nyingine*. Wasike, Kenna; Kikechi, Kombo; & **Ayiega, Mofart Onyoni**. 
 Nairobi: Jesma Publishers & Educational Boosters Limited.
@@ -34,7 +34,7 @@ Nairobi: Jesma Publishers & Educational Boosters Limited.
 2023    *Mwongozo wa Nguu za Jadi*.  Kikechi, Kombo & **Ayiega, Mofart Onyoni**. 
 Nairobi: Jesma Publishers & Educational Boosters Limited.
 
-**Manuscripts**
+## Manuscripts
 
 ms   **Ayiega, Mofart Onyoni**, & Ngonyani, Deo.  A taxonomy of Swahili applicatives.
 
