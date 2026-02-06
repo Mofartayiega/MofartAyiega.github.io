@@ -1,4 +1,7 @@
-# Teaching
+---
+title: Teaching
+permalink: /Teaching
+---
 
 Spring 2025 &nbsp;&nbsp;&nbsp; IAH 206: *Self, Society, and Technology (D) – Language and Our Lives* (MSU, TA)
 
