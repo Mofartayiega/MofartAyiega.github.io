@@ -7,6 +7,7 @@ header_pages:
   - index.md
   - about.md
   - publications.md
+  - teaching.md
   - cv.md
 author: "Mofart Ayiega"
 email: "ayiegamo@msu.edu"
