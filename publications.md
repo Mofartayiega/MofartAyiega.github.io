@@ -1,6 +1,6 @@
 ---
-title: publications & Presentations
-permalink: /publications & Presentations
+title: Publications & Presentations
+permalink: /Publications & Presentations
 ---
 
 ## Peer-reviewed Journal Articles
