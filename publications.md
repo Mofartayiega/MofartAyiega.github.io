@@ -5,6 +5,8 @@ permalink: /Publications & Presentations
 
 ## Peer-reviewed Journal Articles
 
+2026   &nbsp;&nbsp;   **Ayiega, Mofart Onyoni**, & Wagner, Suzanne Evans. *Morphological leveling of noun class agreement in urban Swahili. Proceedings of the Linguistic Society of America*.[DOI: 10.3765/plsa.v11i1.6078](https://doi.org/10.3765/plsa.v11i1.6078)
+
 2023 &nbsp;&nbsp;
 **Ayiega, Mofart Onyoni**, & Mwita, Leonard Chacha. Kiswahili compound nouns: Reasons for violation and non-violation of the Bracket Erasure Rule.
 *Journal of African Language and Culture Studies*, 4(4), 58–83.
@@ -20,8 +22,6 @@ permalink: /Publications & Presentations
 [DOI: 10.37284/eajss.4.1.452](https://doi.org/10.37284/eajss.4.1.452)
 
 ## Proceedings Papers
-
-2026   &nbsp;&nbsp;   **Ayiega, Mofart Onyoni**, & Wagner, Suzanne Evans. *Morphological leveling of noun class agreement in urban Swahili. Proceedings of the Linguistic Society of America*.[forthcoming]
 
 2025   &nbsp;&nbsp;   **Ayiega, Mofart Onyoni**, Ke, Alan Hezao, & Ngonyani, Deo. Morphosemantics of NP-internal and sentence-level agreement in Swahili. 
 *Proceedings of the 56th Annual Conference on African Linguistics*.[forthcoming]
