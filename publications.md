@@ -1,5 +1,5 @@
 ---
-title: PAPERS AND PUBLICATIONS 
+title: Papers and Publications 
 permalink: /Papers & Publications
 ---
 
