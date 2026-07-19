@@ -1,9 +1,9 @@
 ---
-title: Publications & Presentations
-permalink: /Publications & Presentations
+title: PAPERS AND PUBLICATIONS 
+permalink: /Papers & Publications
 ---
 
-## Peer-reviewed Journal Articles
+## Journal papers
 
 2023 &nbsp;&nbsp;
 **Ayiega, Mofart Onyoni**, & Mwita, Leonard Chacha. Kiswahili compound nouns: Reasons for violation and non-violation of the Bracket Erasure Rule.
