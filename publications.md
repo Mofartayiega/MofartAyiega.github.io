@@ -23,9 +23,6 @@ permalink: /Papers & Publications
 
 2026   &nbsp;&nbsp;   **Ayiega, Mofart Onyoni**, & Wagner, Suzanne Evans. *Morphological leveling of noun class agreement in urban Swahili. Proceedings of the Linguistic Society of America*, 11(1).[DOI: 10.3765/plsa.v11i1.6078](https://doi.org/10.3765/plsa.v11i1.6078)
 
-2025   &nbsp;&nbsp;   **Ayiega, Mofart Onyoni**, Ke, Alan Hezao, & Ngonyani, Deo. Morphosemantics of NP-internal and sentence-level agreement in Swahili. 
-*Proceedings of the 56th Annual Conference on African Linguistics*.[forthcoming]
-
 ## Co-authored Books
 
 2023  &nbsp;&nbsp;    *Mwongozo wa Mapambazuko ya Macheo na Hadithi Nyingine*. Wasike, Kenna; Kikechi, Kombo; & **Ayiega, Mofart Onyoni**. 
@@ -42,7 +39,7 @@ ms &nbsp;&nbsp; **Ayiega, Mofart Onyoni**.  /N/ preservation in prenasal stops a
 
 in preparation  &nbsp;&nbsp;  **Ayiega, Mofart Onyoni**, & Wagner, Suzanne Evans. Morphological leveling and cues to animacy in Nairobi Swahili subject–verb agreement.
 
-in preparation  &nbsp;&nbsp;  **Ayiega, Mofart Onyoni**, Ke, Alan Hezao, & Ngonyani, Deo. Morphosyntax and semantics of NP-internal and clause-level agreement in Swahili.
+in preparation  &nbsp;&nbsp;  **Ayiega, Mofart Onyoni**, Ke, Alan Hezao, & Ngonyani, Deo. Morphosemantics of NP-internal and sentence-level agreement in Swahili. 
 
 in preparation &nbsp;&nbsp;   **Ayiega, Mofart Onyoni**, & Ngonyani, Deo. Suffix ordering in Ekegusii verbs.
 
