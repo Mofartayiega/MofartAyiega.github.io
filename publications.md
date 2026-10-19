@@ -37,11 +37,11 @@ ms &nbsp;&nbsp;  **Ayiega, Mofart Onyoni**, & Ngonyani, Deo.  A taxonomy of Swah
 
 ms &nbsp;&nbsp; **Ayiega, Mofart Onyoni**.  /N/ preservation in prenasal stops and compensatory lengthening in Ekegusii: A Stratal OT account.
 
-in preparation  &nbsp;&nbsp;  **Ayiega, Mofart Onyoni**, & Wagner, Suzanne Evans. Morphological leveling and cues to animacy in Nairobi Swahili subject–verb agreement.
+ms  &nbsp;&nbsp;  **Ayiega, Mofart Onyoni**. Vowel hiatus resolution in Ekegusi.
 
-in preparation  &nbsp;&nbsp;  **Ayiega, Mofart Onyoni**, Ke, Alan Hezao, & Ngonyani, Deo. Morphosemantics of NP-internal and sentence-level agreement in Swahili. 
+in preparation  &nbsp;&nbsp;  **Ayiega, Mofart Onyoni**,  & Ke, Alan Hezao. Morphosemantics of NP-internal and sentence-level agreement in Swahili. 
 
-in preparation &nbsp;&nbsp;   **Ayiega, Mofart Onyoni**, & Ngonyani, Deo. Suffix ordering in Ekegusii verbs.
+in preparation &nbsp;&nbsp;   **Ayiega, Mofart Onyoni**, & Overfelt, Jason. The morphosyntax of subject marking in Ekegusii.
 
 ## Refereed Conference Presentations
 
