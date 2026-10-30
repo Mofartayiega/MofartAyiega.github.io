@@ -61,7 +61,7 @@ in preparation &nbsp;&nbsp;   **Ayiega, Mofart Onyoni**, & Overfelt, Jason. The 
 
 2024  &nbsp;&nbsp; **Ayiega, Mofart Onyoni**, & Ngonyani, Deo. A taxonomy of Swahili applicatives. *10th International Conference on Bantu Languages (Bantu 10)*, University of Dar es Salaam, Tanzania.
 
-2023  &nbsp;&nbsp;  **Ayiega, Mofart Onyoni**. Upanuzi wa maana ya baadhi ya msamiati wa Kiswahili: Mtazamo wa ubadilikaji. *CHAUKIDU International Conference*, Arusha, Tanzania.
+2023  &nbsp;&nbsp;  **Ayiega, Mofart Onyoni**. Upanuzi wa maana ya baadhi ya msamiati wa Kiswahili: Mtazamo wa ubadilikaji. *Global Association for the Promotion of Swahili (CHAUKIDU)*, Arusha, Tanzania.
 
 2022   &nbsp;&nbsp;   **Ayiega, Mofart Onyoni**. Usawiri wa mabadiliko ya mwanamke Mswahili katika riwaya Nyuso za Mwanamke (2010): Mtazamo wa utamaduni mageuzi. *International Conference on Culture and Languages (BAKIZA)*, Wete, Pemba.
 
