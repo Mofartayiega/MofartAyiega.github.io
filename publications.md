@@ -45,7 +45,7 @@ in preparation &nbsp;&nbsp;   **Ayiega, Mofart Onyoni**, & Overfelt, Jason. The 
 
 ## Refereed Conference Presentations
 
-2027 &nbsp;&nbsp; Ellie Xia, **Ayiega, Mofart Onyoni**, & Ngonyani, Deo. Pre-initial Negation as a Realization of Focus in Bantu: A Movement Account.  *Linguistic Society of America (LSA) Annual Meeting*, San Francisco Marriott Marquis, San Francisco.[To be presentedJanuary 6-9, 2027]
+2027 &nbsp;&nbsp; Ellie Xia, **Ayiega, Mofart Onyoni**, & Ngonyani, Deo. Pre-initial negation as a realization of focus in Bantu: A movement account.  *Linguistic Society of America (LSA) Annual Meeting*, San Francisco Marriott Marquis, San Francisco.[To be presented January 6-9, 2027]
 
 2026 &nbsp;&nbsp;**Ayiega, Mofart Onyoni**, & Wagner, Suzanne Evans. Morphological leveling and cues to animacy in Nairobi Swahili subject–verb agreement. *11th International Conference on Bantu Languages (Bantu 11)*, University of Ghent, Belgium.
 
