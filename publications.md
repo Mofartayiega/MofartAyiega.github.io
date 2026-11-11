@@ -19,17 +19,15 @@ permalink: /Papers & Publications
 *East African Journal of Swahili Studies*, 4(1), 30–42.  
 [DOI: 10.37284/eajss.4.1.452](https://doi.org/10.37284/eajss.4.1.452)
 
-## Proceedings Papers
+## Proceedings papers
 
 2026   &nbsp;&nbsp;   **Ayiega, Mofart Onyoni**, & Wagner, Suzanne Evans. *Morphological leveling of noun class agreement in urban Swahili. Proceedings of the Linguistic Society of America*, 11(1).[DOI: 10.3765/plsa.v11i1.6078](https://doi.org/10.3765/plsa.v11i1.6078)
 
-## Co-authored Books
+## Co-authored books
 
-2023  &nbsp;&nbsp;    *Mwongozo wa Mapambazuko ya Macheo na Hadithi Nyingine*. Wasike, Kenna; Kikechi, Kombo; & **Ayiega, Mofart Onyoni**. 
-Nairobi: Jesma Publishers & Educational Boosters Limited.
+2023 &nbsp;&nbsp; Wasike, Kenna; Kikechi, Kombo; & **Ayiega, Mofart Onyoni**. *Mwongozo wa Mapambazuko ya Macheo na Hadithi Nyingine*. Nairobi: Jesma Publishers & Educational Boosters Limited.
 
-2023 &nbsp;&nbsp;   *Mwongozo wa Nguu za Jadi*.  Kikechi, Kombo & **Ayiega, Mofart Onyoni**. 
-Nairobi: Jesma Publishers & Educational Boosters Limited.
+2023 &nbsp;&nbsp; Kikechi, Kombo, & **Ayiega, Mofart Onyoni**. *Mwongozo wa Nguu za Jadi*. Nairobi: Jesma Publishers & Educational Boosters Limited.
 
 ## Manuscripts
 
@@ -45,7 +43,7 @@ in preparation &nbsp;&nbsp;   **Ayiega, Mofart Onyoni**, & Overfelt, Jason. The 
 
 in preparation &nbsp;&nbsp;   **Ayiega, Mofart Onyoni**, Leonard, Mwita, & Koen Bostoen. Prototypical and less typical reciprocity in Swahili.
 
-## Refereed Conference Presentations
+## Refereed conference presentations
 
 2027 &nbsp;&nbsp; Ellie Xia, **Ayiega, Mofart Onyoni**, & Ngonyani, Deo. Pre-initial negation as a realization of focus in Bantu: A movement account.  *Linguistic Society of America (LSA) Annual Meeting*, San Francisco Marriott Marquis, San Francisco.[To be presented January 6-9, 2027]
 
