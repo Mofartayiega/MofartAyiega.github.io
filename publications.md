@@ -47,7 +47,7 @@ in preparation &nbsp;&nbsp;   **Ayiega, Mofart Onyoni**, & Overfelt, Jason. The 
 
 2027 &nbsp;&nbsp; Ellie Xia, **Ayiega, Mofart Onyoni**, & Ngonyani, Deo. Pre-initial negation as a realization of focus in Bantu: A movement account.  *Linguistic Society of America (LSA) Annual Meeting*, San Francisco Marriott Marquis, San Francisco.[To be presented January 6-9, 2027]
 
-2026 &nbsp;&nbsp;**Ayiega, Mofart Onyoni**. Semi-reciprocity in Swahili. *8th Annual Academic Conference of the African Graduate Student Association (AGSA)*, Michigan State University, USA, November 13, 2026.
+2026 &nbsp;&nbsp;**Ayiega, Mofart Onyoni**. Semi-reciprocity in Swahili. *8th Annual Academic Conference of the African Graduate Student Association (AGSA)*, Michigan State University, USA, November 13, 2026. [Poster]
 
 2026 &nbsp;&nbsp;**Ayiega, Mofart Onyoni**, & Wagner, Suzanne Evans. Morphological leveling and cues to animacy in Nairobi Swahili subject–verb agreement. *11th International Conference on Bantu Languages (Bantu 11)*, University of Ghent, Belgium.
 
@@ -55,7 +55,7 @@ in preparation &nbsp;&nbsp;   **Ayiega, Mofart Onyoni**, & Overfelt, Jason. The 
 
 2026 &nbsp;&nbsp; **Ayiega, Mofart Onyoni**, & Wagner, Suzanne Evans. Morphological leveling of noun class agreement in urban Swahili. *Linguistic Society of America (LSA) Annual Meeting*, New Orleans Marriott, New Orleans, Louisiana.
 
-2025  &nbsp;&nbsp; **Ayiega, Mofart Onyoni**. Morphological non-agreement on animate nouns in Swahili. *New Ways of Analyzing Variation 53 (NWAV 53)*, University of Michigan, Ann Arbor, Michigan. Poster.
+2025  &nbsp;&nbsp; **Ayiega, Mofart Onyoni**. Morphological non-agreement on animate nouns in Swahili. *New Ways of Analyzing Variation 53 (NWAV 53)*, University of Michigan, Ann Arbor, Michigan. [Poster].
 
 2025  &nbsp;&nbsp;  **Ayiega, Mofart Onyoni**, & Ngonyani, Deo. Tense marking and the order of suffix in Ekegusii verbs. *56th Annual Conference on African Linguistics (ACAL 56)*, University of Minnesota, Twin Cities.
 
