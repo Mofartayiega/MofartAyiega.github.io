@@ -42,6 +42,7 @@ ms  &nbsp;&nbsp;  **Ayiega, Mofart Onyoni**. Vowel hiatus resolution in Ekegusi.
 in preparation  &nbsp;&nbsp;  **Ayiega, Mofart Onyoni**,  & Ke, Alan Hezao. Morphosemantics of NP-internal and sentence-level agreement in Swahili. 
 
 in preparation &nbsp;&nbsp;   **Ayiega, Mofart Onyoni**, & Overfelt, Jason. The morphosyntax of subject marking in Ekegusii.
+in preparation &nbsp;&nbsp;   **Ayiega, Mofart Onyoni**, Leonard, Mwita, & Koen Bostoen. Prototypical and less typical reciprocity in Swahili.
 
 ## Refereed Conference Presentations
 
