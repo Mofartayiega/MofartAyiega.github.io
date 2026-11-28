@@ -19,6 +19,9 @@ permalink: /Papers & Publications
 *East African Journal of Swahili Studies*, 4(1), 30–42.  
 [DOI: 10.37284/eajss.4.1.452](https://doi.org/10.37284/eajss.4.1.452)
 
+In revision &nbsp;&nbsp;
+**Ayiega, Mofart Onyoni**, & Ngonyani, Deo. Suffix ordering in Ekegusii verbs. *Glossa: A Journal of General Linguistics*. 
+
 ## Proceedings papers
 
 2026   &nbsp;&nbsp;   **Ayiega, Mofart Onyoni**, & Wagner, Suzanne Evans. *Morphological leveling of noun class agreement in urban Swahili. Proceedings of the Linguistic Society of America*, 11(1).[DOI: 10.3765/plsa.v11i1.6078](https://doi.org/10.3765/plsa.v11i1.6078)
